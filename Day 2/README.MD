@@ -27,7 +27,7 @@
 | Problem | Result |
 |:--|:--|
 | Rotate Array | ![RotateArray_result](./rotateArrayByK.png) |
-| Richest Customer Wealth | ![RichestCustomer_result](./richestCustomerWealth.png) |
+| Richest Customer Wealth | ![RichestCustomer_result](./RichestCustomerWealth.png) |
 
 ---
 
