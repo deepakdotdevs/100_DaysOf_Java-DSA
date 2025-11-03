@@ -28,7 +28,7 @@
 | Problem | Result |
 |:--|:--|
 | Majority Element | ![Majority_Element_Result](./majority-element.png) |
-| Remove Duplicates | ![Remove_Duplicates_Result](./remove-duplicates.png) |
+| Remove Duplicates | ![Remove_Duplicates_Result](./remove-duplicates-from-sorted-array.png) |
 
 ---
 
