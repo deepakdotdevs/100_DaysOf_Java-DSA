@@ -1,36 +1,36 @@
-# 🧠 Day 7 – Arrays (Medium)
+# 🧠 Day 7 – Arrays (Easy)
 
 **📅 Date:** November 3, 2025  
 **💻 Language:** Java  
-**📚 Topic:** Find First and Last Position of Element in Sorted Array  
+**📚 Topic:** Move Zeroes  
 
 ---
 
 ## ✅ Problem Solved
 | Problem | LeetCode # | Description |
 |:--|:--:|:--|
-| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | #34 | Use binary search to find the first and last occurrence of a target value in a sorted array. |
+| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | #283 | Move all zeros to the end of the array while maintaining the relative order of non-zero elements. |
 
 ---
 
 ## 💡 Concepts Practiced
-- **Binary Search Technique** for range detection  
-- Finding **first and last occurrences** efficiently  
-- Understanding **search boundaries (left, right, mid)**  
-- Space optimization using **O(1)** extra memory  
-- Time-efficient search with **O(log n)** complexity  
-- Strengthened mastery over **sorted array traversal**
+- **Two-pointer technique** (`index`, `i`) for in-place rearrangement  
+- Shifting non-zero elements forward efficiently  
+- Filling remaining positions with zeros  
+- **In-place array manipulation** without extra space  
+- Optimized **O(n)** single-pass traversal  
+- Strengthened understanding of **array reordering logic**
 
 ---
 
 ## 🧩 Output Screenshot
 | Problem | Result |
 |:--|:--|
-| Find First and Last Position | ![Find_First_Last_Position](./find-first-last-position.png) |
+| Move Zeroes | ![Move_Zeroes_Result](./move-zeroes.png) |
 
 ---
 
 ## 🏁 Summary
 Day 7 of **100 Days of DSA** ✅  
-Practiced a smart binary search pattern to locate the range of a target in a sorted array.  
-Improved confidence in using boundary control and mid calculations in binary search 🔍⚡  
+Practiced a key array rearrangement problem using the **two-pointer approach**.  
+Learned how to shift non-zero elements forward and handle zeros efficiently — boosting in-place logic and array manipulation confidence ⚡🚀  
