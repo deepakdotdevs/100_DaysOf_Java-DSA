@@ -26,7 +26,7 @@
 ## 🧩 Output Screenshot
 | Problem | Result |
 |:--|:--|
-| Find First and Last Position | ![Find_First_Last_Position](./find-first-last-position.png) |
+| Find First and Last Position | ![Find_First_Last_Position](./first-and-last-position-of-element-in-sorted-array.png) |
 
 ---
 
