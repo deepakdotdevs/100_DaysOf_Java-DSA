@@ -26,7 +26,7 @@
 ## 🧩 Output Screenshot
 | Problem | Result |
 |:--|:--|
-| Search in Rotated Sorted Array | ![Search_in_Rotated_Sorted_Array](./search-in-rotated-sorted-array.png) |
+| Search in Rotated Sorted Array | ![Search_in_Rotated_Sorted_Array](./sort-an-array.png) |
 
 ---
 
