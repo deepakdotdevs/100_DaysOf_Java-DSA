@@ -26,7 +26,7 @@
 ## 🧩 Output Screenshot
 | Problem | Result |
 |:--|:--|
-| Number of Segments in a String | ![number-of-segments](./number-of-segments.png) |
+| Number of Segments in a String | ![number-of-segments](./number-of-segments-in-a-string.png) |
 
 ---
 
